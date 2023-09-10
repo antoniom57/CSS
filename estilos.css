@@ -1,0 +1,14 @@
+p{
+    font-size: 3em;
+    font-family: "one piece font";
+    background-color: #c4dfe6;
+    text-align: justify;
+}
+
+body{
+    background-color:  #c4dfe6;
+}
+@font-face {
+    font-family: "one piece font";
+    src: url(fuente/one\ piece\ font.ttf);
+}
